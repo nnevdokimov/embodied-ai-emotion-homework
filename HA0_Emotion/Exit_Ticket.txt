@@ -1,0 +1,20 @@
+HA0 - EXIT TICKET
+Concept family: Emotion
+Team members: Nikolay Evdokimov; Aleksandr Mandrov; Ivan Tsarikov; Egor Antonov
+
+INVENTORY AND SCHEMA
+20 instructor-selected concepts; six 0-2 features; one WordNet parent per concept. Sense-level uncertainty is flagged for feeling, warmth and freeze. The CSV records provenance for every field. The README defines the scales and sources.
+
+TESTABLE MODELLING QUESTION
+Does adding interoceptive strength improve prediction of independent socialness ratings for held-out Emotion concepts compared with visual, auditory, tactile and motor features alone?
+
+COMPUTATIONAL CLAIM
+For the Emotion concepts with published socialness ratings, adding interoceptive strength to visual, auditory, tactile and motor features will reduce leave-one-concept-out MAE for predicting socialness by at least 10%, compared with the same model without interoceptive strength.
+
+ONE RESULT THAT WOULD WEAKEN THE CLAIM
+An improvement below 10% would not support the prespecified effect-size claim; no improvement or worse performance would also weaken the directional claim.
+
+PROPOSED EVALUATION
+Use the 16 concepts with published socialness ratings. Exclude heaviness, flood, sting and scar, whose social scores are generated. Predict continuous socialness from continuous source features using leave-one-concept-out ridge regression (alpha=1); fit standardization only on each training fold. Compare models with and without interoception and the training-mean baseline.
+
+The 10% threshold is a prespecified practical criterion. HA1 reports the subsequent test of this prediction. A positive result would show predictive value on this sample, not a causal grounding mechanism. The CSV stores a fixed inventory; no random seed is needed.

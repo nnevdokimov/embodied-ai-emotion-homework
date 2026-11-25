@@ -1,0 +1,21 @@
+concept_id,group,proprioceptive,proprioception_rationale
+EM01,emotion category,0,The selected sense does not require body-position or muscle-effort feedback.
+EM02,affective category,0,"The affective-state sense does not specify posture, movement or effort."
+EM03,affective state,0,A general affective state has no characteristic position or effort requirement.
+EM04,emotion,0,Movement can follow fear but is not required for the selected emotion.
+EM05,emotion,0,Muscular tension can accompany anger but is not required by the selected sense.
+EM06,emotion,0,Aversion does not require body-position or effort feedback.
+EM07,emotion,0,The selected feeling does not require movement or a particular posture.
+EM08,affective state,0,The selected emotional state does not specify movement or bodily effort.
+EM09,specific emotion,0,Urgent movement can accompany panic but is not intrinsic to its emotional definition.
+EM10,interoceptive anchor,0,Visceral discomfort belongs to interoception rather than body-position feedback.
+EM11,specific emotion,0,A feeling of intense anger does not necessarily involve movement or muscular effort.
+EM12,emotion,0,The emotional sense does not require body-position or effort feedback.
+EM13,specific emotion,0,The selected interpersonal feeling does not require positional or muscular feedback.
+EM14,specific emotion,0,Longing for the past has no characteristic position or effort requirement.
+EM15,thermal sensation anchor,0,Thermal sensation is distinct from body-position and effort feedback.
+EM16,weight / load anchor,2,Experiencing a heavy load characteristically involves muscle-force and effort feedback.
+EM17,movement interruption anchor,1,"The selected noun can mean bodily movement stopping, but also broader interruptions of progress."
+EM18,overflow anchor,0,The water event does not inherently describe body-position or muscular effort.
+EM19,pain anchor,0,Sharp pain is not body-position or muscle-effort feedback.
+EM20,injury trace anchor,0,A healed tissue mark does not itself encode position or effort feedback.

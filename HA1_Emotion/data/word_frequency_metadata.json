@@ -1,0 +1,12 @@
+{
+  "source": "wordfreq",
+  "version": "3.1.1",
+  "language": "en",
+  "wordlist": "large",
+  "function": "zipf_frequency(term, 'en', wordlist='large')",
+  "source_url": "https://pypi.org/project/wordfreq/3.1.1/",
+  "data_license": "CC BY-SA 4.0",
+  "attribution": "Robyn Speer, wordfreq 3.1.1; English frequencies combine multiple corpora, including OpenSubtitles.",
+  "conversion": "log10 frequency per million = Zipf frequency - 3",
+  "sha256": "ac170ff97aa8167790aa1b8f58dcd89511bf135e38f358b006f654603146e88a"
+}

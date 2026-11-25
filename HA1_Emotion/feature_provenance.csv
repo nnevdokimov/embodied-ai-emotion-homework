@@ -1,0 +1,141 @@
+concept_id,term,feature,value,source,provenance,method
+EM01,emotion,visual,1,Lancaster Visual.mean,sourced,raw mean converted to a 0-2 bin
+EM02,feeling,visual,0,Lancaster Visual.mean,sourced,raw mean converted to a 0-2 bin
+EM03,mood,visual,1,Lancaster Visual.mean,sourced,raw mean converted to a 0-2 bin
+EM04,fear,visual,1,Lancaster Visual.mean,sourced,raw mean converted to a 0-2 bin
+EM05,anger,visual,1,Lancaster Visual.mean,sourced,raw mean converted to a 0-2 bin
+EM06,disgust,visual,1,Lancaster Visual.mean,sourced,raw mean converted to a 0-2 bin
+EM07,joy,visual,1,Lancaster Visual.mean,sourced,raw mean converted to a 0-2 bin
+EM08,sadness,visual,1,Lancaster Visual.mean,sourced,raw mean converted to a 0-2 bin
+EM09,panic,visual,1,Lancaster Visual.mean,sourced,raw mean converted to a 0-2 bin
+EM10,nausea,visual,0,Lancaster Visual.mean,sourced,raw mean converted to a 0-2 bin
+EM11,rage,visual,1,Lancaster Visual.mean,sourced,raw mean converted to a 0-2 bin
+EM12,anxiety,visual,1,Lancaster Visual.mean,sourced,raw mean converted to a 0-2 bin
+EM13,resentment,visual,1,Lancaster Visual.mean,sourced,raw mean converted to a 0-2 bin
+EM14,nostalgia,visual,1,Lancaster Visual.mean,sourced,raw mean converted to a 0-2 bin
+EM15,warmth,visual,0,Lancaster Visual.mean,sourced,raw mean converted to a 0-2 bin
+EM16,heaviness,visual,1,Lancaster Visual.mean,sourced,raw mean converted to a 0-2 bin
+EM17,freeze,visual,1,Lancaster Visual.mean,sourced,raw mean converted to a 0-2 bin
+EM18,flood,visual,2,Lancaster Visual.mean,sourced,raw mean converted to a 0-2 bin
+EM19,sting,visual,1,Lancaster Visual.mean,sourced,raw mean converted to a 0-2 bin
+EM20,scar,visual,2,Lancaster Visual.mean,sourced,raw mean converted to a 0-2 bin
+EM01,emotion,auditory,1,Lancaster Auditory.mean,sourced,raw mean converted to a 0-2 bin
+EM02,feeling,auditory,0,Lancaster Auditory.mean,sourced,raw mean converted to a 0-2 bin
+EM03,mood,auditory,0,Lancaster Auditory.mean,sourced,raw mean converted to a 0-2 bin
+EM04,fear,auditory,1,Lancaster Auditory.mean,sourced,raw mean converted to a 0-2 bin
+EM05,anger,auditory,1,Lancaster Auditory.mean,sourced,raw mean converted to a 0-2 bin
+EM06,disgust,auditory,1,Lancaster Auditory.mean,sourced,raw mean converted to a 0-2 bin
+EM07,joy,auditory,1,Lancaster Auditory.mean,sourced,raw mean converted to a 0-2 bin
+EM08,sadness,auditory,0,Lancaster Auditory.mean,sourced,raw mean converted to a 0-2 bin
+EM09,panic,auditory,1,Lancaster Auditory.mean,sourced,raw mean converted to a 0-2 bin
+EM10,nausea,auditory,0,Lancaster Auditory.mean,sourced,raw mean converted to a 0-2 bin
+EM11,rage,auditory,1,Lancaster Auditory.mean,sourced,raw mean converted to a 0-2 bin
+EM12,anxiety,auditory,0,Lancaster Auditory.mean,sourced,raw mean converted to a 0-2 bin
+EM13,resentment,auditory,1,Lancaster Auditory.mean,sourced,raw mean converted to a 0-2 bin
+EM14,nostalgia,auditory,1,Lancaster Auditory.mean,sourced,raw mean converted to a 0-2 bin
+EM15,warmth,auditory,0,Lancaster Auditory.mean,sourced,raw mean converted to a 0-2 bin
+EM16,heaviness,auditory,0,Lancaster Auditory.mean,sourced,raw mean converted to a 0-2 bin
+EM17,freeze,auditory,0,Lancaster Auditory.mean,sourced,raw mean converted to a 0-2 bin
+EM18,flood,auditory,1,Lancaster Auditory.mean,sourced,raw mean converted to a 0-2 bin
+EM19,sting,auditory,0,Lancaster Auditory.mean,sourced,raw mean converted to a 0-2 bin
+EM20,scar,auditory,0,Lancaster Auditory.mean,sourced,raw mean converted to a 0-2 bin
+EM01,emotion,tactile,0,Lancaster Haptic.mean,sourced,raw mean converted to a 0-2 bin
+EM02,feeling,tactile,2,Lancaster Haptic.mean,sourced,raw mean converted to a 0-2 bin
+EM03,mood,tactile,0,Lancaster Haptic.mean,sourced,raw mean converted to a 0-2 bin
+EM04,fear,tactile,0,Lancaster Haptic.mean,sourced,raw mean converted to a 0-2 bin
+EM05,anger,tactile,0,Lancaster Haptic.mean,sourced,raw mean converted to a 0-2 bin
+EM06,disgust,tactile,0,Lancaster Haptic.mean,sourced,raw mean converted to a 0-2 bin
+EM07,joy,tactile,0,Lancaster Haptic.mean,sourced,raw mean converted to a 0-2 bin
+EM08,sadness,tactile,0,Lancaster Haptic.mean,sourced,raw mean converted to a 0-2 bin
+EM09,panic,tactile,0,Lancaster Haptic.mean,sourced,raw mean converted to a 0-2 bin
+EM10,nausea,tactile,0,Lancaster Haptic.mean,sourced,raw mean converted to a 0-2 bin
+EM11,rage,tactile,0,Lancaster Haptic.mean,sourced,raw mean converted to a 0-2 bin
+EM12,anxiety,tactile,0,Lancaster Haptic.mean,sourced,raw mean converted to a 0-2 bin
+EM13,resentment,tactile,0,Lancaster Haptic.mean,sourced,raw mean converted to a 0-2 bin
+EM14,nostalgia,tactile,0,Lancaster Haptic.mean,sourced,raw mean converted to a 0-2 bin
+EM15,warmth,tactile,2,Lancaster Haptic.mean,sourced,raw mean converted to a 0-2 bin
+EM16,heaviness,tactile,1,Lancaster Haptic.mean,sourced,raw mean converted to a 0-2 bin
+EM17,freeze,tactile,2,Lancaster Haptic.mean,sourced,raw mean converted to a 0-2 bin
+EM18,flood,tactile,0,Lancaster Haptic.mean,sourced,raw mean converted to a 0-2 bin
+EM19,sting,tactile,2,Lancaster Haptic.mean,sourced,raw mean converted to a 0-2 bin
+EM20,scar,tactile,2,Lancaster Haptic.mean,sourced,raw mean converted to a 0-2 bin
+EM01,emotion,motor,2,Lancaster Max_strength.action,sourced,raw mean converted to a 0-2 bin
+EM02,feeling,motor,2,Lancaster Max_strength.action,sourced,raw mean converted to a 0-2 bin
+EM03,mood,motor,2,Lancaster Max_strength.action,sourced,raw mean converted to a 0-2 bin
+EM04,fear,motor,2,Lancaster Max_strength.action,sourced,raw mean converted to a 0-2 bin
+EM05,anger,motor,1,Lancaster Max_strength.action,sourced,raw mean converted to a 0-2 bin
+EM06,disgust,motor,2,Lancaster Max_strength.action,sourced,raw mean converted to a 0-2 bin
+EM07,joy,motor,1,Lancaster Max_strength.action,sourced,raw mean converted to a 0-2 bin
+EM08,sadness,motor,2,Lancaster Max_strength.action,sourced,raw mean converted to a 0-2 bin
+EM09,panic,motor,2,Lancaster Max_strength.action,sourced,raw mean converted to a 0-2 bin
+EM10,nausea,motor,2,Lancaster Max_strength.action,sourced,raw mean converted to a 0-2 bin
+EM11,rage,motor,1,Lancaster Max_strength.action,sourced,raw mean converted to a 0-2 bin
+EM12,anxiety,motor,1,Lancaster Max_strength.action,sourced,raw mean converted to a 0-2 bin
+EM13,resentment,motor,1,Lancaster Max_strength.action,sourced,raw mean converted to a 0-2 bin
+EM14,nostalgia,motor,2,Lancaster Max_strength.action,sourced,raw mean converted to a 0-2 bin
+EM15,warmth,motor,1,Lancaster Max_strength.action,sourced,raw mean converted to a 0-2 bin
+EM16,heaviness,motor,1,Lancaster Max_strength.action,sourced,raw mean converted to a 0-2 bin
+EM17,freeze,motor,1,Lancaster Max_strength.action,sourced,raw mean converted to a 0-2 bin
+EM18,flood,motor,1,Lancaster Max_strength.action,sourced,raw mean converted to a 0-2 bin
+EM19,sting,motor,1,Lancaster Max_strength.action,sourced,raw mean converted to a 0-2 bin
+EM20,scar,motor,1,Lancaster Max_strength.action,sourced,raw mean converted to a 0-2 bin
+EM01,emotion,proprioceptive,0,AI-generated judgment,generated,semantic judgment
+EM02,feeling,proprioceptive,0,AI-generated judgment,generated,semantic judgment
+EM03,mood,proprioceptive,0,AI-generated judgment,generated,semantic judgment
+EM04,fear,proprioceptive,0,AI-generated judgment,generated,semantic judgment
+EM05,anger,proprioceptive,0,AI-generated judgment,generated,semantic judgment
+EM06,disgust,proprioceptive,0,AI-generated judgment,generated,semantic judgment
+EM07,joy,proprioceptive,0,AI-generated judgment,generated,semantic judgment
+EM08,sadness,proprioceptive,0,AI-generated judgment,generated,semantic judgment
+EM09,panic,proprioceptive,0,AI-generated judgment,generated,semantic judgment
+EM10,nausea,proprioceptive,0,AI-generated judgment,generated,semantic judgment
+EM11,rage,proprioceptive,0,AI-generated judgment,generated,semantic judgment
+EM12,anxiety,proprioceptive,0,AI-generated judgment,generated,semantic judgment
+EM13,resentment,proprioceptive,0,AI-generated judgment,generated,semantic judgment
+EM14,nostalgia,proprioceptive,0,AI-generated judgment,generated,semantic judgment
+EM15,warmth,proprioceptive,0,AI-generated judgment,generated,semantic judgment
+EM16,heaviness,proprioceptive,2,AI-generated judgment,generated,semantic judgment
+EM17,freeze,proprioceptive,1,AI-generated judgment,generated,semantic judgment
+EM18,flood,proprioceptive,0,AI-generated judgment,generated,semantic judgment
+EM19,sting,proprioceptive,0,AI-generated judgment,generated,semantic judgment
+EM20,scar,proprioceptive,0,AI-generated judgment,generated,semantic judgment
+EM01,emotion,interoceptive,2,Lancaster Interoceptive.mean,sourced,raw mean converted to a 0-2 bin
+EM02,feeling,interoceptive,2,Lancaster Interoceptive.mean,sourced,raw mean converted to a 0-2 bin
+EM03,mood,interoceptive,2,Lancaster Interoceptive.mean,sourced,raw mean converted to a 0-2 bin
+EM04,fear,interoceptive,2,Lancaster Interoceptive.mean,sourced,raw mean converted to a 0-2 bin
+EM05,anger,interoceptive,2,Lancaster Interoceptive.mean,sourced,raw mean converted to a 0-2 bin
+EM06,disgust,interoceptive,1,Lancaster Interoceptive.mean,sourced,raw mean converted to a 0-2 bin
+EM07,joy,interoceptive,2,Lancaster Interoceptive.mean,sourced,raw mean converted to a 0-2 bin
+EM08,sadness,interoceptive,2,Lancaster Interoceptive.mean,sourced,raw mean converted to a 0-2 bin
+EM09,panic,interoceptive,2,Lancaster Interoceptive.mean,sourced,raw mean converted to a 0-2 bin
+EM10,nausea,interoceptive,2,Lancaster Interoceptive.mean,sourced,raw mean converted to a 0-2 bin
+EM11,rage,interoceptive,2,Lancaster Interoceptive.mean,sourced,raw mean converted to a 0-2 bin
+EM12,anxiety,interoceptive,2,Lancaster Interoceptive.mean,sourced,raw mean converted to a 0-2 bin
+EM13,resentment,interoceptive,2,Lancaster Interoceptive.mean,sourced,raw mean converted to a 0-2 bin
+EM14,nostalgia,interoceptive,2,Lancaster Interoceptive.mean,sourced,raw mean converted to a 0-2 bin
+EM15,warmth,interoceptive,1,Lancaster Interoceptive.mean,sourced,raw mean converted to a 0-2 bin
+EM16,heaviness,interoceptive,1,Lancaster Interoceptive.mean,sourced,raw mean converted to a 0-2 bin
+EM17,freeze,interoceptive,1,Lancaster Interoceptive.mean,sourced,raw mean converted to a 0-2 bin
+EM18,flood,interoceptive,0,Lancaster Interoceptive.mean,sourced,raw mean converted to a 0-2 bin
+EM19,sting,interoceptive,2,Lancaster Interoceptive.mean,sourced,raw mean converted to a 0-2 bin
+EM20,scar,interoceptive,0,Lancaster Interoceptive.mean,sourced,raw mean converted to a 0-2 bin
+EM01,emotion,social,2,Diveica Socialness Mean,sourced,raw mean converted to a 0-2 bin
+EM02,feeling,social,1,Diveica Socialness Mean,sourced,raw mean converted to a 0-2 bin
+EM03,mood,social,1,Diveica Socialness Mean,sourced,raw mean converted to a 0-2 bin
+EM04,fear,social,1,Diveica Socialness Mean,sourced,raw mean converted to a 0-2 bin
+EM05,anger,social,2,Diveica Socialness Mean,sourced,raw mean converted to a 0-2 bin
+EM06,disgust,social,1,Diveica Socialness Mean,sourced,raw mean converted to a 0-2 bin
+EM07,joy,social,2,Diveica Socialness Mean,sourced,raw mean converted to a 0-2 bin
+EM08,sadness,social,2,Diveica Socialness Mean,sourced,raw mean converted to a 0-2 bin
+EM09,panic,social,1,Diveica Socialness Mean,sourced,raw mean converted to a 0-2 bin
+EM10,nausea,social,0,Diveica Socialness Mean,sourced,raw mean converted to a 0-2 bin
+EM11,rage,social,2,Diveica Socialness Mean,sourced,raw mean converted to a 0-2 bin
+EM12,anxiety,social,2,Diveica Socialness Mean,sourced,raw mean converted to a 0-2 bin
+EM13,resentment,social,1,Diveica Socialness Mean,sourced,raw mean converted to a 0-2 bin
+EM14,nostalgia,social,2,Diveica Socialness Mean,sourced,raw mean converted to a 0-2 bin
+EM15,warmth,social,1,Diveica Socialness Mean,sourced,raw mean converted to a 0-2 bin
+EM16,heaviness,social,0,AI-generated judgment,generated,semantic judgment
+EM17,freeze,social,0,Diveica Socialness Mean,sourced,raw mean converted to a 0-2 bin
+EM18,flood,social,0,AI-generated judgment,generated,semantic judgment
+EM19,sting,social,0,AI-generated judgment,generated,semantic judgment
+EM20,scar,social,0,AI-generated judgment,generated,semantic judgment

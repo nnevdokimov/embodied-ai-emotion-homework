@@ -1,0 +1,11 @@
+Alternative,boundary,high C / low S,high C / high S,low C / high S,low C / low S,missing
+baseline,7.0,6.0,3.0,3.0,1.0,0.0
+C_rank,0.0,6.0,3.0,6.0,5.0,0.0
+C_sum,7.0,6.0,3.0,3.0,1.0,0.0
+C_max,0.0,0.0,0.0,0.0,0.0,20.0
+C_without_proprioception,5.0,6.0,3.0,4.0,2.0,0.0
+S_depth_max,7.0,6.0,3.0,3.0,1.0,0.0
+S_descendants,7.0,1.0,8.0,4.0,0.0,0.0
+S_log_descendants,7.0,4.0,5.0,4.0,0.0,0.0
+S_rank,7.0,6.0,3.0,3.0,1.0,0.0
+C_frequency_adjusted,0.0,8.0,5.0,4.0,3.0,0.0

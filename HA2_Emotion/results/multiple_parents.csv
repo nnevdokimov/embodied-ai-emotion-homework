@@ -1,0 +1,2 @@
+id,reachable,parents,parent_count,root_path_count,depth_min,depth_max,descendants,S_depth,S_depth_max,S_breadth,taxonomy_in_degree,taxonomy_out_degree,typed_degree,normalizer_depth,normalizer_descendants,stage
+panic,True,emotion; fear,2,2,5.0,6.0,0,0.8333333333333334,1.0,1.0,2,0,2,6,24,added

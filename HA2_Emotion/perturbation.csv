@@ -1,0 +1,76 @@
+comparison,id,status,S_depth_before,S_depth_after,delta_S_depth,S_breadth_before,S_breadth_after,delta_S_breadth,delta_depth_fixed_scale,delta_breadth_fixed_scale,moved_over_0_1,explanation
+baseline → added,emotion,connected,0.6666666666666666,0.6666666666666666,0.0,0.3456871240434054,0.35398516288991044,0.00829803884650504,0.0,0.0,False,Maximum descendant count changed.
+baseline → added,feeling,connected,0.5,0.5,0.0,0.1929182152396972,0.2031536794164588,0.010235464176761577,0.0,0.0,False,Maximum descendant count changed.
+baseline → added,mood,connected,0.6666666666666666,0.6666666666666666,0.0,1.0,1.0,0.0,0.0,0.0,False,Maximum descendant count changed.
+baseline → added,fear,connected,0.8333333333333334,0.8333333333333334,0.0,0.7818957080144684,0.7846617209633034,0.0027660129488350504,0.0,0.0,False,Maximum descendant count changed.
+baseline → added,anger,connected,0.8333333333333334,0.8333333333333334,0.0,0.7818957080144684,0.7846617209633034,0.0027660129488350504,0.0,0.0,False,Maximum descendant count changed.
+baseline → added,disgust,connected,0.6666666666666666,0.6666666666666666,0.0,1.0,1.0,0.0,0.0,0.0,False,Maximum descendant count changed.
+baseline → added,joy,connected,0.8333333333333334,0.8333333333333334,0.0,1.0,1.0,0.0,0.0,0.0,False,Maximum descendant count changed.
+baseline → added,sadness,connected,0.6666666666666666,0.6666666666666666,0.0,1.0,1.0,0.0,0.0,0.0,False,Maximum descendant count changed.
+baseline → added,panic,connected,1.0,0.8333333333333334,-0.16666666666666663,1.0,1.0,0.0,-0.16666666666666663,0.0,True,Shortest root path changed. Maximum descendant count changed.
+baseline → added,nausea,connected,0.6666666666666666,0.6666666666666666,0.0,1.0,1.0,0.0,0.0,0.0,False,Maximum descendant count changed.
+baseline → added,rage,connected,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,False,Maximum descendant count changed.
+baseline → added,anxiety,connected,0.8333333333333334,0.8333333333333334,0.0,1.0,1.0,0.0,0.0,0.0,False,Maximum descendant count changed.
+baseline → added,resentment,connected,0.8333333333333334,0.8333333333333334,0.0,1.0,1.0,0.0,0.0,0.0,False,Maximum descendant count changed.
+baseline → added,nostalgia,connected,0.6666666666666666,0.6666666666666666,0.0,1.0,1.0,0.0,0.0,0.0,False,Maximum descendant count changed.
+baseline → added,warmth,connected,0.5,0.5,0.0,1.0,1.0,0.0,0.0,0.0,False,Maximum descendant count changed.
+baseline → added,heaviness,connected,0.5,0.5,0.0,1.0,1.0,0.0,0.0,0.0,False,Maximum descendant count changed.
+baseline → added,freeze,connected,0.5,0.5,0.0,1.0,1.0,0.0,0.0,0.0,False,Maximum descendant count changed.
+baseline → added,flood,connected,0.16666666666666666,0.16666666666666666,0.0,1.0,1.0,0.0,0.0,0.0,False,Maximum descendant count changed.
+baseline → added,sting,connected,0.6666666666666666,0.6666666666666666,0.0,1.0,1.0,0.0,0.0,0.0,False,Maximum descendant count changed.
+baseline → added,scar,newly reachable,NA,0.6666666666666666,NA,NA,1.0,NA,NA,NA,False,Restoring symptom → scar creates a root path.
+baseline → added,entity,connected,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.012844966353444454,False,Reachable descendant count changed. Maximum descendant count changed.
+baseline → added,abstraction,connected,0.16666666666666666,0.16666666666666666,0.0,0.027378824159219328,0.025903953266810165,-0.0014748708924091636,0.0,-0.01398710183772034,False,Reachable descendant count changed. Maximum descendant count changed.
+baseline → added,attribute,connected,0.3333333333333333,0.3333333333333333,0.0,0.14789039277987237,0.15869690275700732,0.010806509977134948,0.0,0.0,False,Maximum descendant count changed.
+baseline → added,psychological_feature,connected,0.3333333333333333,0.3333333333333333,0.0,0.4362085839710631,0.39546902243891624,-0.04073956153214686,0.0,-0.04850474159853391,False,Reachable descendant count changed. Maximum descendant count changed.
+baseline → added,symptom,connected,0.5,0.5,0.0,0.6543128759565946,0.5693234419266069,-0.08498943402998771,0.0,-0.0905214599276577,False,Reachable descendant count changed. Maximum descendant count changed.
+added → removed,emotion,disconnected,0.6666666666666666,NA,NA,0.35398516288991044,NA,NA,NA,NA,False,Removing feeling → emotion disconnects this branch.
+added → removed,feeling,connected,0.5,0.75,0.25,0.2031536794164588,0.4319390328262671,0.22878535340980832,0.0,0.30065930158358056,True,Reachable descendant count changed. Maximum depth changed. Maximum descendant count changed.
+added → removed,mood,connected,0.6666666666666666,1.0,0.33333333333333337,1.0,1.0,0.0,0.0,0.0,True,Maximum depth changed. Maximum descendant count changed.
+added → removed,fear,disconnected,0.8333333333333334,NA,NA,0.7846617209633034,NA,NA,NA,NA,False,Removing feeling → emotion disconnects this branch.
+added → removed,anger,disconnected,0.8333333333333334,NA,NA,0.7846617209633034,NA,NA,NA,NA,False,Removing feeling → emotion disconnects this branch.
+added → removed,disgust,connected,0.6666666666666666,1.0,0.33333333333333337,1.0,1.0,0.0,0.0,0.0,True,Maximum depth changed. Maximum descendant count changed.
+added → removed,joy,disconnected,0.8333333333333334,NA,NA,1.0,NA,NA,NA,NA,False,Removing feeling → emotion disconnects this branch.
+added → removed,sadness,connected,0.6666666666666666,1.0,0.33333333333333337,1.0,1.0,0.0,0.0,0.0,True,Maximum depth changed. Maximum descendant count changed.
+added → removed,panic,disconnected,0.8333333333333334,NA,NA,1.0,NA,NA,NA,NA,False,Both fear → panic and emotion → panic were removed.
+added → removed,nausea,connected,0.6666666666666666,1.0,0.33333333333333337,1.0,1.0,0.0,0.0,0.0,True,Maximum depth changed. Maximum descendant count changed.
+added → removed,rage,disconnected,1.0,NA,NA,1.0,NA,NA,NA,NA,False,Removing feeling → emotion disconnects this branch.
+added → removed,anxiety,disconnected,0.8333333333333334,NA,NA,1.0,NA,NA,NA,NA,False,Removing feeling → emotion disconnects this branch.
+added → removed,resentment,disconnected,0.8333333333333334,NA,NA,1.0,NA,NA,NA,NA,False,Removing feeling → emotion disconnects this branch.
+added → removed,nostalgia,connected,0.6666666666666666,1.0,0.33333333333333337,1.0,1.0,0.0,0.0,0.0,True,Maximum depth changed. Maximum descendant count changed.
+added → removed,warmth,connected,0.5,0.75,0.25,1.0,1.0,0.0,0.0,0.0,True,Maximum depth changed. Maximum descendant count changed.
+added → removed,heaviness,connected,0.5,0.75,0.25,1.0,1.0,0.0,0.0,0.0,True,Maximum depth changed. Maximum descendant count changed.
+added → removed,freeze,connected,0.5,0.75,0.25,1.0,1.0,0.0,0.0,0.0,True,Maximum depth changed. Maximum descendant count changed.
+added → removed,flood,connected,0.16666666666666666,0.25,0.08333333333333334,1.0,1.0,0.0,0.0,0.0,False,Maximum depth changed. Maximum descendant count changed.
+added → removed,sting,connected,0.6666666666666666,1.0,0.33333333333333337,1.0,1.0,0.0,0.0,0.0,True,Maximum depth changed. Maximum descendant count changed.
+added → removed,scar,connected,0.6666666666666666,1.0,0.33333333333333337,1.0,1.0,0.0,0.0,0.0,True,Maximum depth changed. Maximum descendant count changed.
+added → removed,entity,connected,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.12135177734537006,False,Reachable descendant count changed. Maximum depth changed. Maximum descendant count changed.
+added → removed,abstraction,connected,0.16666666666666666,0.25,0.08333333333333334,0.025903953266810165,0.04417709778777701,0.018273144520966844,0.0,0.13449867045837338,False,Reachable descendant count changed. Maximum depth changed. Maximum descendant count changed.
+added → removed,attribute,connected,0.3333333333333333,0.5,0.16666666666666669,0.15869690275700732,0.31317909640033703,0.1544821936433297,0.0,0.23981344959265682,True,Reachable descendant count changed. Maximum depth changed. Maximum descendant count changed.
+added → removed,psychological_feature,connected,0.3333333333333333,0.5,0.16666666666666669,0.39546902243891624,0.31317909640033703,-0.08228992603857921,0.0,0.0,True,Maximum depth changed. Maximum descendant count changed.
+added → removed,symptom,connected,0.5,0.75,0.25,0.5693234419266069,0.510698915763548,-0.05862452616305891,0.0,0.0,True,Maximum depth changed. Maximum descendant count changed.
+baseline → removed,emotion,disconnected,0.6666666666666666,NA,NA,0.3456871240434054,NA,NA,NA,NA,False,Removing feeling → emotion disconnects this branch.
+baseline → removed,feeling,connected,0.5,0.75,0.25,0.1929182152396972,0.4319390328262671,0.2390208175865699,0.0,0.30065930158358056,True,Reachable descendant count changed. Maximum depth changed. Maximum descendant count changed.
+baseline → removed,mood,connected,0.6666666666666666,1.0,0.33333333333333337,1.0,1.0,0.0,0.0,0.0,True,Maximum depth changed. Maximum descendant count changed.
+baseline → removed,fear,disconnected,0.8333333333333334,NA,NA,0.7818957080144684,NA,NA,NA,NA,False,Removing feeling → emotion disconnects this branch.
+baseline → removed,anger,disconnected,0.8333333333333334,NA,NA,0.7818957080144684,NA,NA,NA,NA,False,Removing feeling → emotion disconnects this branch.
+baseline → removed,disgust,connected,0.6666666666666666,1.0,0.33333333333333337,1.0,1.0,0.0,0.0,0.0,True,Maximum depth changed. Maximum descendant count changed.
+baseline → removed,joy,disconnected,0.8333333333333334,NA,NA,1.0,NA,NA,NA,NA,False,Removing feeling → emotion disconnects this branch.
+baseline → removed,sadness,connected,0.6666666666666666,1.0,0.33333333333333337,1.0,1.0,0.0,0.0,0.0,True,Maximum depth changed. Maximum descendant count changed.
+baseline → removed,panic,disconnected,1.0,NA,NA,1.0,NA,NA,NA,NA,False,Both fear → panic and emotion → panic were removed.
+baseline → removed,nausea,connected,0.6666666666666666,1.0,0.33333333333333337,1.0,1.0,0.0,0.0,0.0,True,Maximum depth changed. Maximum descendant count changed.
+baseline → removed,rage,disconnected,1.0,NA,NA,1.0,NA,NA,NA,NA,False,Removing feeling → emotion disconnects this branch.
+baseline → removed,anxiety,disconnected,0.8333333333333334,NA,NA,1.0,NA,NA,NA,NA,False,Removing feeling → emotion disconnects this branch.
+baseline → removed,resentment,disconnected,0.8333333333333334,NA,NA,1.0,NA,NA,NA,NA,False,Removing feeling → emotion disconnects this branch.
+baseline → removed,nostalgia,connected,0.6666666666666666,1.0,0.33333333333333337,1.0,1.0,0.0,0.0,0.0,True,Maximum depth changed. Maximum descendant count changed.
+baseline → removed,warmth,connected,0.5,0.75,0.25,1.0,1.0,0.0,0.0,0.0,True,Maximum depth changed. Maximum descendant count changed.
+baseline → removed,heaviness,connected,0.5,0.75,0.25,1.0,1.0,0.0,0.0,0.0,True,Maximum depth changed. Maximum descendant count changed.
+baseline → removed,freeze,connected,0.5,0.75,0.25,1.0,1.0,0.0,0.0,0.0,True,Maximum depth changed. Maximum descendant count changed.
+baseline → removed,flood,connected,0.16666666666666666,0.25,0.08333333333333334,1.0,1.0,0.0,0.0,0.0,False,Maximum depth changed. Maximum descendant count changed.
+baseline → removed,sting,connected,0.6666666666666666,1.0,0.33333333333333337,1.0,1.0,0.0,0.0,0.0,True,Maximum depth changed. Maximum descendant count changed.
+baseline → removed,scar,newly reachable,NA,1.0,NA,NA,1.0,NA,NA,NA,False,Restoring symptom → scar creates a root path.
+baseline → removed,entity,connected,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1085068109919256,False,Reachable descendant count changed. Maximum depth changed. Maximum descendant count changed.
+baseline → removed,abstraction,connected,0.16666666666666666,0.25,0.08333333333333334,0.027378824159219328,0.04417709778777701,0.01679827362855768,0.0,0.12051156862065304,False,Reachable descendant count changed. Maximum depth changed. Maximum descendant count changed.
+baseline → removed,attribute,connected,0.3333333333333333,0.5,0.16666666666666669,0.14789039277987237,0.31317909640033703,0.16528870362046466,0.0,0.23981344959265682,True,Reachable descendant count changed. Maximum depth changed. Maximum descendant count changed.
+baseline → removed,psychological_feature,connected,0.3333333333333333,0.5,0.16666666666666669,0.4362085839710631,0.31317909640033703,-0.12302948757072607,0.0,-0.04850474159853391,True,Reachable descendant count changed. Maximum depth changed. Maximum descendant count changed.
+baseline → removed,symptom,connected,0.5,0.75,0.25,0.6543128759565946,0.510698915763548,-0.14361396019304662,0.0,-0.0905214599276577,True,Reachable descendant count changed. Maximum depth changed. Maximum descendant count changed.

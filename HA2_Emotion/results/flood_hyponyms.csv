@@ -1,0 +1,4 @@
+source,source_synset,child_synset,child_lemma,relation,provenance
+flood,11454591,wn30-11454953-n,debacle,is_a,wordnet
+flood,11454591,wn30-11455092-n,flash_flood,is_a,wordnet
+flood,11454591,wn30-11455386-n,Noah's_flood,is_a,wordnet

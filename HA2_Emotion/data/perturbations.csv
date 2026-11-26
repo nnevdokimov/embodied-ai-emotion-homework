@@ -1,7 +1,7 @@
-source,target,type,provenance,annotation_origin,source_id,source_url,evidence,wordnet_hops,justification,operation
-symptom,scar,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,14299637 > 14363483,1,Verified ancestor path; an edge represents category inclusion.,add
-emotion,panic,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,07480068 > 07519253 > 07520612,2,Verified ancestor path; an edge represents category inclusion.,add
-anxiety,freeze,associated_with,seed,generated,Authored example,,Anxiety accompanied the brief freeze before speaking.,,A second illustrative association; it must not enter specificity calculations.,add
-fear,panic,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,07519253 > 07520612,1,Verified ancestor path; an edge represents category inclusion.,remove
-feeling,emotion,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,00026192 > 07480068,1,Verified ancestor path; an edge represents category inclusion.,remove
-emotion,panic,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,07480068 > 07519253 > 07520612,2,Verified ancestor path; an edge represents category inclusion.,remove
+source,target,type,provenance,annotation_origin,source_id,source_url,motivating_literature_url,evidence,wordnet_hops,justification,operation
+symptom,scar,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,,14299637 > 14363483,1,Verified ancestor path; an edge represents category inclusion.,add
+emotion,panic,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,,07480068 > 07519253 > 07520612,2,Verified ancestor path; an edge represents category inclusion.,add
+anxiety,freeze,associated_with,seed,generated,Authored example,,,Anxiety accompanied the brief freeze before speaking.,,"A second illustrative association; it must not enter specificity calculations. The selected freeze sense (wn30-01063697-n) denotes a general interruption or pause, not a specific physiological freezing response.",add
+fear,panic,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,,07519253 > 07520612,1,Verified ancestor path; an edge represents category inclusion.,remove
+feeling,emotion,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,,00026192 > 07480068,1,Verified ancestor path; an edge represents category inclusion.,remove
+emotion,panic,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,,07480068 > 07519253 > 07520612,2,Verified ancestor path; an edge represents category inclusion.,remove

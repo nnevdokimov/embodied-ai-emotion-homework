@@ -1,28 +1,28 @@
-source,target,type,provenance,annotation_origin,source_id,source_url,evidence,wordnet_hops,justification
-feeling,emotion,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,00026192 > 07480068,1,Verified ancestor path; an edge represents category inclusion.
-attribute,feeling,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,00024264 > 00024720 > 00026192,2,Verified ancestor path; an edge represents category inclusion.
-feeling,mood,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,00026192 > 07551052,1,Verified ancestor path; an edge represents category inclusion.
-emotion,fear,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,07480068 > 07519253,1,Verified ancestor path; an edge represents category inclusion.
-emotion,anger,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,07480068 > 07516354,1,Verified ancestor path; an edge represents category inclusion.
-feeling,disgust,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,00026192 > 07501545 > 07503260,2,Verified ancestor path; an edge represents category inclusion.
-emotion,joy,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,07480068 > 07527352,1,Verified ancestor path; an edge represents category inclusion.
-feeling,sadness,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,00026192 > 07532440,1,Verified ancestor path; an edge represents category inclusion.
-fear,panic,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,07519253 > 07520612,1,Verified ancestor path; an edge represents category inclusion.
-symptom,nausea,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,14299637 > 14359952,1,Verified ancestor path; an edge represents category inclusion.
-anger,rage,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,07516354 > 07516997,1,Verified ancestor path; an edge represents category inclusion.
-emotion,anxiety,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,07480068 > 07523905,1,Verified ancestor path; an edge represents category inclusion.
-emotion,resentment,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,07480068 > 07546465 > 07547805 > 07548978,3,Verified ancestor path; an edge represents category inclusion.
-feeling,nostalgia,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,00026192 > 07484265 > 07486628 > 07487375,3,Verified ancestor path; an edge represents category inclusion.
-psychological_feature,warmth,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,00023100 > 00023271 > 05701363 > 05701944 > 05708432 > 05721180 > 05725378 > 05725527,7,Verified ancestor path; an edge represents category inclusion.
-attribute,heaviness,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,00024264 > 04916342 > 05009170 > 05026843 > 05027529,4,Verified ancestor path; an edge represents category inclusion.
-psychological_feature,freeze,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,00023100 > 00029378 > 00030358 > 01062583 > 01062817 > 01063697,5,Verified ancestor path; an edge represents category inclusion.
-entity,flood,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,00001740 > 00001930 > 00029677 > 00034213 > 11408559 > 11417672 > 11454591,6,Verified ancestor path; an edge represents category inclusion.
-symptom,sting,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,14299637 > 14322699 > 14332085,2,Verified ancestor path; an edge represents category inclusion.
-entity,abstraction,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,00001740 > 00002137,1,Verified ancestor path; an edge represents category inclusion.
-abstraction,attribute,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,00002137 > 00024264,1,Verified ancestor path; an edge represents category inclusion.
-abstraction,psychological_feature,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,00002137 > 00023100,1,Verified ancestor path; an edge represents category inclusion.
-psychological_feature,symptom,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,00023100 > 00023271 > 05816287 > 05823932 > 14299637,4,Verified ancestor path; an edge represents category inclusion.
-disgust,nausea,associated_with,seed,generated,Authored example,https://pubmed.ncbi.nlm.nih.gov/33238154/,The disgusting smell made her feel nausea.,,"An illustrative co-occurrence, not a causal or taxonomic assertion. Nord et al. tested the contribution of gastric rhythm to disgust avoidance. The generated sentence illustrates a possible association; subjective nausea was not the outcome of that experiment."
-fear,freeze,associated_with,seed,generated,Authored example,https://pubmed.ncbi.nlm.nih.gov/20876881/,Fear was accompanied by a brief freeze in his movement.,,The broad pause noun is used in a fear-response context. Roelofs et al. measured freeze-like postural responses to social threat. This experiment motivates the example; the illustrative sentence was generated.
-heaviness,sadness,metaphorical_source_for,seed,generated,Authored example,,She described her sadness as a heaviness.,,Physical weight is the source of this authored emotional comparison.
-flood,joy,metaphorical_source_for,seed,generated,Authored example,,A flood of joy washed over her.,,Overflowing water is the source of this authored emotional comparison.
+source,target,type,provenance,annotation_origin,source_id,source_url,motivating_literature_url,evidence,wordnet_hops,justification
+feeling,emotion,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,,00026192 > 07480068,1,Verified ancestor path; an edge represents category inclusion.
+attribute,feeling,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,,00024264 > 00024720 > 00026192,2,Verified ancestor path; an edge represents category inclusion.
+feeling,mood,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,,00026192 > 07551052,1,Verified ancestor path; an edge represents category inclusion.
+emotion,fear,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,,07480068 > 07519253,1,Verified ancestor path; an edge represents category inclusion.
+emotion,anger,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,,07480068 > 07516354,1,Verified ancestor path; an edge represents category inclusion.
+feeling,disgust,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,,00026192 > 07501545 > 07503260,2,Verified ancestor path; an edge represents category inclusion.
+emotion,joy,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,,07480068 > 07527352,1,Verified ancestor path; an edge represents category inclusion.
+feeling,sadness,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,,00026192 > 07532440,1,Verified ancestor path; an edge represents category inclusion.
+fear,panic,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,,07519253 > 07520612,1,Verified ancestor path; an edge represents category inclusion.
+symptom,nausea,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,,14299637 > 14359952,1,Verified ancestor path; an edge represents category inclusion.
+anger,rage,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,,07516354 > 07516997,1,Verified ancestor path; an edge represents category inclusion.
+emotion,anxiety,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,,07480068 > 07523905,1,Verified ancestor path; an edge represents category inclusion.
+emotion,resentment,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,,07480068 > 07546465 > 07547805 > 07548978,3,Verified ancestor path; an edge represents category inclusion.
+feeling,nostalgia,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,,00026192 > 07484265 > 07486628 > 07487375,3,Verified ancestor path; an edge represents category inclusion.
+psychological_feature,warmth,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,,00023100 > 00023271 > 05701363 > 05701944 > 05708432 > 05721180 > 05725378 > 05725527,7,Verified ancestor path; an edge represents category inclusion.
+attribute,heaviness,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,,00024264 > 04916342 > 05009170 > 05026843 > 05027529,4,Verified ancestor path; an edge represents category inclusion.
+psychological_feature,freeze,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,,00023100 > 00029378 > 00030358 > 01062583 > 01062817 > 01063697,5,Verified ancestor path; an edge represents category inclusion.
+entity,flood,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,,00001740 > 00001930 > 00029677 > 00034213 > 11408559 > 11417672 > 11454591,6,Verified ancestor path; an edge represents category inclusion.
+symptom,sting,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,,14299637 > 14322699 > 14332085,2,Verified ancestor path; an edge represents category inclusion.
+entity,abstraction,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,,00001740 > 00002137,1,Verified ancestor path; an edge represents category inclusion.
+abstraction,attribute,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,,00002137 > 00024264,1,Verified ancestor path; an edge represents category inclusion.
+abstraction,psychological_feature,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,,00002137 > 00023100,1,Verified ancestor path; an edge represents category inclusion.
+psychological_feature,symptom,is_a,wordnet,sourced,WordNet 3.0,https://wordnet.princeton.edu/,,00023100 > 00023271 > 05816287 > 05823932 > 14299637,4,Verified ancestor path; an edge represents category inclusion.
+disgust,nausea,associated_with,seed,generated,Authored example,,https://pubmed.ncbi.nlm.nih.gov/33238154/,The disgusting smell made her feel nausea.,,"An illustrative co-occurrence, not a causal or taxonomic assertion. Nord et al. tested the contribution of gastric rhythm to disgust avoidance. The generated sentence illustrates a possible association; subjective nausea was not the outcome of that experiment."
+fear,freeze,associated_with,seed,generated,Authored example,,https://pubmed.ncbi.nlm.nih.gov/20876881/,Fear was accompanied by a brief freeze in his movement.,,"The broad pause noun is used in a fear-response context. Roelofs et al. measured freeze-like postural responses to social threat. This experiment motivates the example; the illustrative sentence was generated. The selected freeze sense (wn30-01063697-n) denotes a general interruption or pause, not a specific physiological freezing response."
+heaviness,sadness,metaphorical_source_for,seed,generated,Authored example,,,She described her sadness as a heaviness.,,Physical weight is the source of this authored emotional comparison.
+flood,joy,metaphorical_source_for,seed,generated,Authored example,,,A flood of joy washed over her.,,Overflowing water is the source of this authored emotional comparison.

@@ -1,0 +1,125 @@
+{
+  "format": 1,
+  "files": {
+    "HA2_Emotion_Peer_Review.pdf": {
+      "mode": "bytes",
+      "sha256": "d353fce448cd39ba1c9a6b778ac736b3f4c2cad7803f7c132ba78c69ba0ef7a1"
+    },
+    "HA2_Peer_Review_Team_10_Detailed.pdf": {
+      "mode": "bytes",
+      "sha256": "5c7df9ac610f795ea9bbe70acdd27a9bf1c39ba6148b59f984b9774bff4685fb"
+    },
+    "HA2_network.ipynb": {
+      "mode": "notebook_source",
+      "sha256": "c1bf7456103e2790e2bf44ac3772c35a732ae3b2ad1babcca860b94e96d8a09d"
+    },
+    "README.md": {
+      "mode": "bytes",
+      "sha256": "2491bf0bd25dfba207afcd8ad12c401f46da0df2ab97d55433bb9cdbfdc78829"
+    },
+    "data/HA0_Emotion.csv": {
+      "mode": "bytes",
+      "sha256": "58462c2fe4cbb02a5dadf80e55b7c3891b72e71083a10ca5141288b6f194ff33"
+    },
+    "data/concepts.csv": {
+      "mode": "bytes",
+      "sha256": "b282b397794ab21e8309430e1c18e6229e48e7085051926aa2d7108706583e81"
+    },
+    "data/ha1_depths.csv": {
+      "mode": "bytes",
+      "sha256": "422250172d1fed32c21f374742a60560d88313fc35bd51cb16296c39b9abbc83"
+    },
+    "data/perturbations.csv": {
+      "mode": "bytes",
+      "sha256": "0a4b1e8c3ea761221c361f693727e5a602cda9b915b1a16a01192b75d987a087"
+    },
+    "data/wordnet.zip": {
+      "mode": "bytes",
+      "sha256": "002db4817f5d76a06dbcb47b474a91f1872f62b583dbd722d0736b93361b880f"
+    },
+    "edges.csv": {
+      "mode": "bytes",
+      "sha256": "c38302776a44d189db9850faa1a86b96eb6ab45826721d65e6071e6ae9a44128"
+    },
+    "interpretation.md": {
+      "mode": "bytes",
+      "sha256": "4d5ce861d7b67efb924ef1f72dc5915e3110b1fc7227d058f5ece2bc3e458639"
+    },
+    "network.png": {
+      "mode": "bytes",
+      "sha256": "c260b0ea0e2eeb9b718ff223353f1f2d095cd94dedbfe71dacc3aa993f903919"
+    },
+    "nodes.csv": {
+      "mode": "bytes",
+      "sha256": "b3c38563c53c47cebf0b9df073ed65ff0d74d725b8106073243ea71a255e0463"
+    },
+    "peer_review_response.md": {
+      "mode": "bytes",
+      "sha256": "59a6be5afb16ee87207b85d3c9a9b8ff49609acbd4cc29c5b00079d9140376d4"
+    },
+    "perturbation.csv": {
+      "mode": "bytes",
+      "sha256": "290e0252bfec555198448f1f55d29b061b74577024f0db259cc7fb72499703a6"
+    },
+    "requirements.txt": {
+      "mode": "bytes",
+      "sha256": "cfd73c118487983dccfeb5388b2a7f98c826dd257a25098875b063834a6f0ede"
+    },
+    "results/coverage_summary.csv": {
+      "mode": "bytes",
+      "sha256": "870cb3c10630f6fdab67378170e4e5ee2cf05a2ef192de321b008af758a36c43"
+    },
+    "results/depth_comparison.csv": {
+      "mode": "bytes",
+      "sha256": "d8ce620c33f32087540b0c3a39ba5ced853e709f2587e1cb1bf7167aea6eabc0"
+    },
+    "results/edges_added.csv": {
+      "mode": "bytes",
+      "sha256": "e2f7351fd18e204b529639608af451db395179b4697255684eb5b6a43d303650"
+    },
+    "results/edges_removed.csv": {
+      "mode": "bytes",
+      "sha256": "60c1a890d68eaf8867eff4541e82d63f161646e482cfc1ade6224f5fc1c91188"
+    },
+    "results/flood_hyponyms.csv": {
+      "mode": "bytes",
+      "sha256": "678d318774268767729f9c6016d3af515a3a54f7278c77aa40be2564716d28ed"
+    },
+    "results/multiple_parents.csv": {
+      "mode": "bytes",
+      "sha256": "053fc7b928ec113e71e4993595366e3dcf1e0ade13999f6ec333908c971d4555"
+    },
+    "results/network_added.png": {
+      "mode": "bytes",
+      "sha256": "7c630698dd8268654f95f07c1ffe4c4fe02820c06d865d15af4d3dae24a192d0"
+    },
+    "results/network_removed.png": {
+      "mode": "bytes",
+      "sha256": "f7c2669297b60fd6d0972c02c2d7bbc9ae9873867121c3caf6aecf8cb5ec78ef"
+    },
+    "results/single_removals.csv": {
+      "mode": "bytes",
+      "sha256": "a08e8a67c8c7a1b684e6d6828be07f6cc1392fa5be6b37e1ef17e037d2e340a0"
+    },
+    "results/specificity_added.csv": {
+      "mode": "bytes",
+      "sha256": "a9a28c6ee0d19207bc61ba596ab0f6db58176782c266130b3f685f3e197f284a"
+    },
+    "results/specificity_baseline.csv": {
+      "mode": "bytes",
+      "sha256": "f98f2d920b6e4a2a957d94ef59939cdf878ab4f37f2eaed198f3b0f75a292929"
+    },
+    "results/specificity_removed.csv": {
+      "mode": "bytes",
+      "sha256": "f40e40c08002547bc6416b6534701e05b42bb358c2cfa66346d5f3a68ddd7b40"
+    },
+    "results/stage_summary.csv": {
+      "mode": "bytes",
+      "sha256": "90522f6d33046c486119bd1da357699f73f48eacb4bf4390b304a92ec29d632f"
+    },
+    "verify_submission.py": {
+      "mode": "bytes",
+      "sha256": "1164ef0f2349abff64b3b890c8fae28561441b774fa96c2bb4ce15b50f2708b0"
+    }
+  }
+}

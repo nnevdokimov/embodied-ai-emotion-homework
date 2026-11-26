@@ -1,26 +1,26 @@
-id,label,definition,pos,wordnet_synset,origin,definition_provenance
-emotion,emotion,"A strong affective response to an event or situation, with a characteristic subjective experience.",n,wn30-07480068-n,HA0 Emotion inventory,generated
-feeling,feeling,the experiencing of affective and emotional states,n,wn30-00026192-n,HA0 Emotion inventory,sourced
-mood,mood,a characteristic (habitual or relatively temporary) state of feeling,n,wn30-07551052-n,HA0 Emotion inventory,sourced
-fear,fear,an emotion arising in anticipation of danger or pain,n,wn30-07519253-n,HA0 Emotion inventory,generated
-anger,anger,a strong emotion; a feeling that is oriented toward some real or supposed grievance,n,wn30-07516354-n,HA0 Emotion inventory,sourced
-disgust,disgust,strong feelings of dislike,n,wn30-07503260-n,HA0 Emotion inventory,sourced
-joy,joy,the emotion of great happiness,n,wn30-07527352-n,HA0 Emotion inventory,sourced
-sadness,sadness,emotions experienced when not in a state of well-being,n,wn30-07532440-n,HA0 Emotion inventory,sourced
-panic,panic,an overwhelming feeling of fear and anxiety,n,wn30-07520612-n,HA0 Emotion inventory,sourced
-nausea,nausea,the state that precedes vomiting,n,wn30-14359952-n,HA0 Emotion inventory,sourced
-rage,rage,a feeling of intense anger,n,wn30-07516997-n,HA0 Emotion inventory,sourced
-anxiety,anxiety,a vague unpleasant emotion that is experienced in anticipation of some (usually ill-defined) misfortune,n,wn30-07523905-n,HA0 Emotion inventory,sourced
-resentment,resentment,a feeling of deep and bitter anger and ill-will,n,wn30-07548978-n,HA0 Emotion inventory,sourced
-nostalgia,nostalgia,longing for something past,n,wn30-07487375-n,HA0 Emotion inventory,sourced
-warmth,warmth,the sensation caused by heat energy,n,wn30-05725527-n,HA0 Emotion inventory,sourced
-heaviness,heaviness,the property of being comparatively great in weight,n,wn30-05027529-n,HA0 Emotion inventory,sourced
-freeze,freeze,an interruption or temporary suspension of progress or movement,n,wn30-01063697-n,HA0 Emotion inventory,sourced
-flood,flood,the rising of a body of water and its overflowing onto normally dry land,n,wn30-11454591-n,HA0 Emotion inventory,sourced
-sting,sting,a sudden sharp pain resembling the sensation of an insect bite,n,wn30-14332085-n,HA0 Emotion inventory,generated
-scar,scar,a mark left (usually on the skin) by the healing of injured tissue,n,wn30-14363483-n,HA0 Emotion inventory,sourced
-entity,entity,that which is perceived or known or inferred to have its own distinct existence (living or nonliving),n,wn30-00001740-n,supporting category,sourced
-abstraction,abstraction,a general concept formed by extracting common features from specific examples,n,wn30-00002137-n,supporting category,sourced
-attribute,attribute,an abstraction belonging to or characteristic of an entity,n,wn30-00024264-n,supporting category,sourced
-psychological_feature,psychological feature,a feature of the mental life of a living organism,n,wn30-00023100-n,supporting category,sourced
-symptom,symptom,(medicine) any sensation or change in bodily function that is experienced by a patient and is associated with a particular disease,n,wn30-14299637-n,supporting category,sourced
+id,label,definition,pos,wordnet_synset,origin,definition_provenance,uncertain,uncertainty_note
+emotion,emotion,"A strong affective response to an event or situation, with a characteristic subjective experience.",n,wn30-07480068-n,HA0 Emotion inventory,generated,no,
+feeling,feeling,the experiencing of affective and emotional states,n,wn30-00026192-n,HA0 Emotion inventory,sourced,yes,Affective sense. The word-level haptic rating can include the touch sense.
+mood,mood,a characteristic (habitual or relatively temporary) state of feeling,n,wn30-07551052-n,HA0 Emotion inventory,sourced,no,
+fear,fear,an emotion arising in anticipation of danger or pain,n,wn30-07519253-n,HA0 Emotion inventory,generated,no,
+anger,anger,a strong emotion; a feeling that is oriented toward some real or supposed grievance,n,wn30-07516354-n,HA0 Emotion inventory,sourced,no,
+disgust,disgust,strong feelings of dislike,n,wn30-07503260-n,HA0 Emotion inventory,sourced,no,
+joy,joy,the emotion of great happiness,n,wn30-07527352-n,HA0 Emotion inventory,sourced,no,
+sadness,sadness,emotions experienced when not in a state of well-being,n,wn30-07532440-n,HA0 Emotion inventory,sourced,no,
+panic,panic,an overwhelming feeling of fear and anxiety,n,wn30-07520612-n,HA0 Emotion inventory,sourced,no,
+nausea,nausea,the state that precedes vomiting,n,wn30-14359952-n,HA0 Emotion inventory,sourced,no,
+rage,rage,a feeling of intense anger,n,wn30-07516997-n,HA0 Emotion inventory,sourced,no,
+anxiety,anxiety,a vague unpleasant emotion that is experienced in anticipation of some (usually ill-defined) misfortune,n,wn30-07523905-n,HA0 Emotion inventory,sourced,no,
+resentment,resentment,a feeling of deep and bitter anger and ill-will,n,wn30-07548978-n,HA0 Emotion inventory,sourced,no,
+nostalgia,nostalgia,longing for something past,n,wn30-07487375-n,HA0 Emotion inventory,sourced,no,
+warmth,warmth,the sensation caused by heat energy,n,wn30-05725527-n,HA0 Emotion inventory,sourced,yes,Thermal sense. Word ratings may also reflect interpersonal affection.
+heaviness,heaviness,the property of being comparatively great in weight,n,wn30-05027529-n,HA0 Emotion inventory,sourced,no,
+freeze,freeze,an interruption or temporary suspension of progress or movement,n,wn30-01063697-n,HA0 Emotion inventory,sourced,yes,General interruption sense. The word norm may also evoke cold.
+flood,flood,the rising of a body of water and its overflowing onto normally dry land,n,wn30-11454591-n,HA0 Emotion inventory,sourced,no,
+sting,sting,a sudden sharp pain resembling the sensation of an insect bite,n,wn30-14332085-n,HA0 Emotion inventory,generated,no,
+scar,scar,a mark left (usually on the skin) by the healing of injured tissue,n,wn30-14363483-n,HA0 Emotion inventory,sourced,no,
+entity,entity,that which is perceived or known or inferred to have its own distinct existence (living or nonliving),n,wn30-00001740-n,supporting category,sourced,,
+abstraction,abstraction,a general concept formed by extracting common features from specific examples,n,wn30-00002137-n,supporting category,sourced,,
+attribute,attribute,an abstraction belonging to or characteristic of an entity,n,wn30-00024264-n,supporting category,sourced,,
+psychological_feature,psychological feature,a feature of the mental life of a living organism,n,wn30-00023100-n,supporting category,sourced,,
+symptom,symptom,(medicine) any sensation or change in bodily function that is experienced by a patient and is associated with a particular disease,n,wn30-14299637-n,supporting category,sourced,,

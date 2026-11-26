@@ -7,7 +7,7 @@ baseline → added,anger,connected,0.8333333333333334,0.8333333333333334,0.0,0.7
 baseline → added,disgust,connected,0.6666666666666666,0.6666666666666666,0.0,1.0,1.0,0.0,0.0,0.0,False,Maximum descendant count changed.
 baseline → added,joy,connected,0.8333333333333334,0.8333333333333334,0.0,1.0,1.0,0.0,0.0,0.0,False,Maximum descendant count changed.
 baseline → added,sadness,connected,0.6666666666666666,0.6666666666666666,0.0,1.0,1.0,0.0,0.0,0.0,False,Maximum descendant count changed.
-baseline → added,panic,connected,1.0,0.8333333333333334,-0.16666666666666663,1.0,1.0,0.0,-0.16666666666666663,0.0,True,Shortest root path changed. Maximum descendant count changed.
+baseline → added,panic,connected,1.0,0.8333333333333334,-0.16666666666666663,1.0,1.0,0.0,-0.16666666666666663,0.0,True,Redundant ancestor shortcut emotion → panic shortens the compact path; WordNet depth remains 7. Maximum descendant count changed.
 baseline → added,nausea,connected,0.6666666666666666,0.6666666666666666,0.0,1.0,1.0,0.0,0.0,0.0,False,Maximum descendant count changed.
 baseline → added,rage,connected,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,False,Maximum descendant count changed.
 baseline → added,anxiety,connected,0.8333333333333334,0.8333333333333334,0.0,1.0,1.0,0.0,0.0,0.0,False,Maximum descendant count changed.
@@ -32,7 +32,7 @@ added → removed,anger,disconnected,0.8333333333333334,NA,NA,0.7846617209633034
 added → removed,disgust,connected,0.6666666666666666,1.0,0.33333333333333337,1.0,1.0,0.0,0.0,0.0,True,Maximum depth changed. Maximum descendant count changed.
 added → removed,joy,disconnected,0.8333333333333334,NA,NA,1.0,NA,NA,NA,NA,False,Removing feeling → emotion disconnects this branch.
 added → removed,sadness,connected,0.6666666666666666,1.0,0.33333333333333337,1.0,1.0,0.0,0.0,0.0,True,Maximum depth changed. Maximum descendant count changed.
-added → removed,panic,disconnected,0.8333333333333334,NA,NA,1.0,NA,NA,NA,NA,False,Both fear → panic and emotion → panic were removed.
+added → removed,panic,disconnected,0.8333333333333334,NA,NA,1.0,NA,NA,NA,NA,False,Removing feeling → emotion disconnects the branch; deleting both fear → panic and emotion → panic also isolates panic.
 added → removed,nausea,connected,0.6666666666666666,1.0,0.33333333333333337,1.0,1.0,0.0,0.0,0.0,True,Maximum depth changed. Maximum descendant count changed.
 added → removed,rage,disconnected,1.0,NA,NA,1.0,NA,NA,NA,NA,False,Removing feeling → emotion disconnects this branch.
 added → removed,anxiety,disconnected,0.8333333333333334,NA,NA,1.0,NA,NA,NA,NA,False,Removing feeling → emotion disconnects this branch.
@@ -57,7 +57,7 @@ baseline → removed,anger,disconnected,0.8333333333333334,NA,NA,0.7818957080144
 baseline → removed,disgust,connected,0.6666666666666666,1.0,0.33333333333333337,1.0,1.0,0.0,0.0,0.0,True,Maximum depth changed. Maximum descendant count changed.
 baseline → removed,joy,disconnected,0.8333333333333334,NA,NA,1.0,NA,NA,NA,NA,False,Removing feeling → emotion disconnects this branch.
 baseline → removed,sadness,connected,0.6666666666666666,1.0,0.33333333333333337,1.0,1.0,0.0,0.0,0.0,True,Maximum depth changed. Maximum descendant count changed.
-baseline → removed,panic,disconnected,1.0,NA,NA,1.0,NA,NA,NA,NA,False,Both fear → panic and emotion → panic were removed.
+baseline → removed,panic,disconnected,1.0,NA,NA,1.0,NA,NA,NA,NA,False,Removing feeling → emotion disconnects the branch; deleting both fear → panic and emotion → panic also isolates panic.
 baseline → removed,nausea,connected,0.6666666666666666,1.0,0.33333333333333337,1.0,1.0,0.0,0.0,0.0,True,Maximum depth changed. Maximum descendant count changed.
 baseline → removed,rage,disconnected,1.0,NA,NA,1.0,NA,NA,NA,NA,False,Removing feeling → emotion disconnects this branch.
 baseline → removed,anxiety,disconnected,0.8333333333333334,NA,NA,1.0,NA,NA,NA,NA,False,Removing feeling → emotion disconnects this branch.
